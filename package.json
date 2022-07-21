@@ -2,6 +2,7 @@
   "name": "nulzrest",
   "version": "1.0.0",
   "description": "quote-api",
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ibnusm/api.git"
