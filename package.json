@@ -1,0 +1,25 @@
+{
+  "name": "nulz-api",
+  "version": "1.0.0",
+  "description": "quote-api",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibnusm/api.git"
+  },
+  "keywords": [
+    "quote",
+    "random-quote",
+    "api",
+    "rest",
+    "restapi"
+  ],
+  "author": "ibnusm",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ibnusm/api/issues"
+  },
+  "homepage": "https://github.com/ibnusm/api#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
